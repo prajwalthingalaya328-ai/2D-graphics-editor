@@ -288,7 +288,7 @@ void deleteObject()
 
     redrawAll();
 
-    printf("Object deleted.\n");
+    printf("Object Deleted.\n");
 }
 
 void modifyObject()
@@ -361,7 +361,7 @@ int main()
     {
         printf("\n");
         printf("=====================================\n");
-        printf("         2D GRAPHICS EDITOR\n");
+        printf("         2D-GRAPHICS-EDITOR\n");
         printf("=====================================\n");
         printf("1. Add Line\n");
         printf("2. Add Rectangle\n");
@@ -409,11 +409,11 @@ int main()
             case 8:
                 objectCount = 0;
                 clearCanvas();
-                printf("Canvas cleared.\n");
+                printf("Canvas Cleared.\n");
                 break;
 
             case 9:
-                printf("Exiting Graphics Editor...\n");
+                printf("Exiting Graphics Editor!\n");
                 return 0;
 
             default:
