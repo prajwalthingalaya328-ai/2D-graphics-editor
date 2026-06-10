@@ -1,0 +1,19 @@
+Prompt 1:
+Create a complete 2D Graphics Editor in C with drawing and canvas management features.
+
+Response:
+A complete 2D Graphics Editor was developed using the C programming language. The program included a menu-driven interface, a drawing canvas, and functions for creating and displaying graphical shapes. Core features such as shape drawing, canvas management, and user interaction were implemented and integrated into a working application.
+
+---
+
+Prompt 2:
+Refactor the code structure and improve the overall program design.
+
+Response:
+The program was reorganized and refined to improve code readability, maintainability, and structure. Functions were reviewed, unnecessary redundancies were removed, and the overall design was optimized to ensure smoother execution and better organization of the source code.
+
+---
+
+Conclusion:
+
+GenAI assistance was used as a development aid throughout the project to support implementation, code improvement, debugging, and program organization. The development process involved creating a functional 2D Graphics Editor and subsequently refining its structure through refactoring and optimization. The final application provides an organized, menu-driven environment for performing basic 2D graphics operations while maintaining clear and maintainable code.
